@@ -1,3 +1,7 @@
+# Blog
+http://codeintherightway.blogspot.hk/2017/09/soft-uart-implementation-for-raspberry.html
+
+
 # soft_uart
 
 Software-based serial port module for Raspberry Pi.
