@@ -1,5 +1,5 @@
 # Blog
-http://codeintherightway.blogspot.hk/2017/09/soft-uart-implementation-for-raspberry.html
+http://codeintherightway.blogspot.com/2017/09/soft-uart-implementation-for-raspberry.html
 
 
 # soft_uart
